@@ -29,7 +29,5 @@ payload:
   - 'dl-a10b-0885.mypikpak.com'
   - 'dl-a10b-0886.mypikpak.com'
   - 'dl-a10b-0887.mypikpak.com'
-
-  #Pikpak sign urls
   
 
