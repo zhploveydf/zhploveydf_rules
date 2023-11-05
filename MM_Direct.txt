@@ -1,4 +1,0 @@
-payload:
-  - '+.bitwarden.com'
-  - '+.authy.com'
-
